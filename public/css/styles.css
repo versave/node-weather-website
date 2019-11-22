@@ -53,3 +53,10 @@ button {
     color: #ffffff;
     padding: 8px;  
 }
+
+button#geolocate {
+    width: 252px;
+    border-color: #000;
+    margin-top: 20px;
+    background: #292727;
+}
